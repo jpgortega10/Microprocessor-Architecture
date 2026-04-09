@@ -1,0 +1,61 @@
+# Archives (you said you had zip files before)
+*.zip
+*.rar
+*.7z
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Xilinx ISE generated junk
+xst/
+_ngo/
+_xmsgs/
+xlnx_auto_0_xdb/
+*.xrpt
+*.html
+*.bld
+*.drc
+*.map
+*.mrp
+*.ngc
+*.ngd
+*.ncd
+*.pad
+*.par
+*.pcf
+*.ptwx
+*.stx
+*.syr
+*.twr
+*.twx
+*.gise
+*.bit
+*.bin
+*.mcs
+*.exe
+*.jou
+*.lso
+*.xpi
+*.cmd_log
+*.wdb
+*.ngc
+*.ngd
+*.ncd
+*.bit
+*.map
+*.mrp
+*.bgn
+*.bld
+*.drc
+
+# Simulation/build junk
+isim/
+fuse.log
+isim.log

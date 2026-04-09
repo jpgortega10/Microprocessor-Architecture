@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/Homework_2/TOP_Gate_tb_isim_beh.exe" -prj "/home/ise/Homework_2/TOP_Gate_tb_beh.prj" "work.TOP_Gate_tb" "work.glbl" 

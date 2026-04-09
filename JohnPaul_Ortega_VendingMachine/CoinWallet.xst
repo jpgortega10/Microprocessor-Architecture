@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/VendingMachine/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/VendingMachine/xst"
+elaborate
+-ifn CoinWallet.prj
+-ifmt mixed

@@ -1,0 +1,4 @@
+verilog work "NOR_Gate.v"
+verilog work "NAND_Gate.v"
+verilog work "AND_Gate.v"
+verilog work "TOP_Gate.v"

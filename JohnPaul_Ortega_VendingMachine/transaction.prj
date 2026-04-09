@@ -1,0 +1,4 @@
+verilog work "CoinWallet.v"
+verilog work "ChangeDispenser.v"
+verilog work "BevDispenser.v"
+verilog work "transaction.v"

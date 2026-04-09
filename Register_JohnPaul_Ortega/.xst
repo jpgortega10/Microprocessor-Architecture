@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Register_JohnPaul_Ortega/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Register_JohnPaul_Ortega/xst"
+elaborate
+-ifn .prj
+-ifmt mixed

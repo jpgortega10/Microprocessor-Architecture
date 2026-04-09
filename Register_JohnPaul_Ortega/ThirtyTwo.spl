@@ -1,0 +1,14 @@
+[Inputs]
+clk
+RL
+=DataAddress[4:0]=
+=BusAaddress[4:0]=
+=BusBaddress[4:0]=
+=busD[31:0]=
+[Outputs]
+=busA[31:0]=
+=busB[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel ThirtyTwo
+

@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Homework_2/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Homework_2/xst"
+elaborate
+-ifn NOR_Gate.prj
+-ifmt mixed

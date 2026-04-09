@@ -1,0 +1,6 @@
+verilog work "CoinWallet.v"
+verilog work "ChangeDispenser.v"
+verilog work "BevDispenser.v"
+verilog work "transaction.v"
+verilog work "transaction_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

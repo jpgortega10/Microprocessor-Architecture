@@ -1,0 +1,6 @@
+verilog work "NOR_Gate.v"
+verilog work "NAND_Gate.v"
+verilog work "AND_Gate.v"
+verilog work "TOP_Gate.v"
+verilog work "TOP_Gate_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
