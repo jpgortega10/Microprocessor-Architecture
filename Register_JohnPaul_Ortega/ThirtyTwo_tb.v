@@ -4,8 +4,6 @@
 // Design Name:   ThirtyTwo
 // Module Name:   ThirtyTwo_tb
 // Project Name:  Register_JohnPaul_Ortega
-// Name: JohnPaul Ortega
-// R-Number: R11921023
 ////////////////////////////////////////////////////////////////////////////////
 module ThirtyTwo_tb;
 
